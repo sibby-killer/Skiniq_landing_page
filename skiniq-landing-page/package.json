@@ -1,0 +1,35 @@
+{
+  "name": "skiniq-landing-page",
+  "version": "1.0.0",
+  "description": "Landing page for SkinIQ, an AI-powered skin analysis platform.",
+  "main": "src/pages/_app.tsx",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "nextjs",
+    "react",
+    "typescript",
+    "tailwindcss",
+    "skincare",
+    "ai"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "latest",
+    "typescript": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "latest",
+    "@types/node": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest"
+  }
+}
