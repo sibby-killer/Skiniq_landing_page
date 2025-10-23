@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/582f2eaa-af11-4111-a95d-24cc0fce58f8
+**URL**: https://skiniq-landing-page.vercel.app/
 
 ## How can I edit this code?
 
@@ -10,9 +10,9 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/582f2eaa-af11-4111-a95d-24cc0fce58f8) and start prompting.
+Simply visit the [Alfred Project](https://skiniq-landing-page.vercel.app/) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
+Changes made via this github will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -62,12 +62,4 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/582f2eaa-af11-4111-a95d-24cc0fce58f8) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Simply open varcel and deploy
